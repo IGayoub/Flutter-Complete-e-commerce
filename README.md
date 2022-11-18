@@ -1,9 +1,9 @@
 ## Flutter e-commerce Application UI Design 
 
 ## Project :
--State Mangment: Bloc 
--Screens
--Android & IOS
+- **State Mangment**: Bloc 
+- ** Screens **
+- *Android & IOS*
 <br>
 
 ## Development Setup
