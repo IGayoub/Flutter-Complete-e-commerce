@@ -1,8 +1,5 @@
 ## Flutter e-commerce Application UI Design 
 
-[Watch it on Youtube](https://youtu.be/_10i7_xsthM)
-
-
 ## Project :
 -State Mangment: Bloc 
 -Screens
