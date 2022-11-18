@@ -1,17 +1,27 @@
-# project3
+## Flutter e-commerce Application UI Design 
 
-A new Flutter project.
+[Watch it on Youtube](https://youtu.be/_10i7_xsthM)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Project :
+-State Mangment: Bloc 
+-Screens
+-Android & IOS
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ScreenShot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-Complete-e-commerce
+<img src="assets/screenshot/one.png" height="500em" />&nbsp;<img src="assets/screenshot/two.png" height="500em" />
+
+## Links
+
+* [Twitter](https://twitter.com/ig_ayoub)
+* [EmAail](igayoub33@gmail.com)
+> IG AYOUB Dev
