@@ -22,5 +22,5 @@ flutter run
 ## Links
 
 * [Twitter](https://twitter.com/ig_ayoub)
-* [EmAail](igayoub33@gmail.com)
+* [Email](igayoub33@gmail.com)
 > IG AYOUB Dev
